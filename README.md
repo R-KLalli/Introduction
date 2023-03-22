@@ -8,4 +8,4 @@ Each project is hosted on Github and you can browse the source code, documentati
 
 If you have any questions, feedback, or suggestions, please don't hesitate to contact me directly through https://linkedin.com/rubjit-lalli 
 
-Thank you for visiting and happy coding!" 👨‍💻💻😎
+Thank you for visiting!
